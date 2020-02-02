@@ -2,3 +2,4 @@ New sting
 other str
 
 Hello git!
+Hello git rebase
